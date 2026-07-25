@@ -1,9 +1,9 @@
 """
 Assignment: Simple Calculator
 
-Name:
-Department:
-Semester:
+Name: Rohan Rahim
+Department: CSE
+Semester: 2.2
 
 Instructions:
 - Complete each function below. Do not change function names or parameters.
