@@ -33,8 +33,6 @@ env.bak/
 venv.bak/
 
 # Environment variables & secrets
-.env
-.env.local
 .env.*.local
 
 # Testing & Coverage
@@ -45,8 +43,9 @@ htmlcov/
 .noserc
 
 # IDE & Editor configs
-.vscode/
 .idea/
 *.swp
 *.swo
 .DS_Store
+config.bat
+node_modules
